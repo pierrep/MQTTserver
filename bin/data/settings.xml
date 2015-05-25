@@ -1,0 +1,7 @@
+<NETWORK>
+	<IP>23.239.4.79</IP>
+	<PORT>1883</PORT>
+	<CHANNEL>ap/toPlatform/csl</CHANNEL>
+	<OUTCHANNEL>ap/fromPlatform/csl</OUTCHANNEL>
+	<NAME>CaseStudyLibrary</NAME>
+</NETWORK>
